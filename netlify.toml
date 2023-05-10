@@ -1,7 +1,6 @@
 [[redirects]]
   from = "/*"
   to = "https://blockchainweek.be/eth-brussels"
-  force = true
 
 [[redirects]]
   from = "/qr"
