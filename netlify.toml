@@ -3,5 +3,13 @@
   to = "https://taikai.network/ethbrussels/hackathons/ETHBrussels"
 
 [[redirects]]
+  from = "/hackers"
+  to = "https://taikai.network/ethbrussels/hackathons/ETHBrussels"
+
+[[redirects]]
+  from = "/taikai"
+  to = "https://taikai.network/ethbrussels/hackathons/ETHBrussels"
+
+[[redirects]]
   from = "/*"
   to = "https://blockchainweek.be/eth-brussels"
