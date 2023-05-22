@@ -11,5 +11,9 @@
   to = "https://taikai.network/ethbrussels/hackathons/ETHBrussels"
 
 [[redirects]]
+  from = "/sponsors"
+  to = "https://daobrussels.notion.site/Sponsoring-ETH-Brussels-9888d22f7e33423db617c3014b26b98b"
+
+[[redirects]]
   from = "/*"
   to = "https://blockchainweek.be/eth-brussels"
