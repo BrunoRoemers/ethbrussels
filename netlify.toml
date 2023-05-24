@@ -19,5 +19,17 @@
   to = "https://discord.gg/u2e6Prvp5T"
 
 [[redirects]]
+  from = "/schedule"
+  to = "https://airtable.com/shr2ikJtdfgOivKxj/tbl0S3ql1nq9Z2xUN"
+
+[[redirects]]
+  from = "/add-to-schedule"
+  to = "https://tally.so/r/mRd5L4"
+
+[[redirects]]
+  from = "/*"
+  to = "https://linktr.ee/ethbrussels"
+
+[[redirects]]
   from = "/*"
   to = "https://blockchainweek.be/eth-brussels"
