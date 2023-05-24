@@ -15,5 +15,9 @@
   to = "https://daobrussels.notion.site/Sponsoring-ETH-Brussels-9888d22f7e33423db617c3014b26b98b"
 
 [[redirects]]
+  from = "/discord"
+  to = "https://discord.gg/u2e6Prvp5T"
+
+[[redirects]]
   from = "/*"
   to = "https://blockchainweek.be/eth-brussels"
