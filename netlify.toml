@@ -3,6 +3,10 @@
   to = "https://linktr.ee/ethbrussels"
 
 [[redirects]]
+  from = "/share"
+  to = "https://www.notion.so/daobrussels/ETHBrussels-Spread-the-word-5a0c687150db4898b76a696b267d69e7?pvs=4"
+
+[[redirects]]
   from = "/hackers"
   to = "https://taikai.network/ethbrussels/hackathons/ETHBrussels"
 
